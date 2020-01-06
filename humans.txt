@@ -5,6 +5,7 @@
 
     <name> -- Mehtab Multani -- <twitter>
     hello i am a web developer
+    devops engineer
 
 # THANKS
 
@@ -14,4 +15,5 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, Bootstrap
+<<<<<<< HEAD
     kubernetes, jenkins
