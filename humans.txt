@@ -9,7 +9,7 @@ online learning
 
 # THANKS
 	thanks to all developers
-	angular
+	git, angular
     <name>
 
 # TECHNOLOGY COLOPHON
