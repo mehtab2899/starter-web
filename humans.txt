@@ -17,4 +17,6 @@
     HTML5, CSS3, Angular
     jQuery, Modernizr, Bootstrap
 <<<<<<< HEAD
-    kubernetes, jenkins
+	kubernetes, jenkins
+		
+devops software
