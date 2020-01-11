@@ -1,7 +1,6 @@
 # humanstxt.org/
 
 master in devops
-
 # The humans responsible & technology colophon
 online learning
 # TEAM
