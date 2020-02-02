@@ -1,7 +1,10 @@
 # humanstxt.org/
 
 master in devops
+<<<<<<< HEAD
 	particles.js
+=======
+>>>>>>> mybranch
 # The humans responsible & technology colophon
 online learning
 # TEAM
