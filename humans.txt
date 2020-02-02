@@ -24,5 +24,6 @@ online learning
     jQuery, Modernizr, Bootstrap
 <<<<<<< HEAD
 	kubernetes, jenkins
-		
+	kibana, logdash
+
 devops software
